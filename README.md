@@ -174,20 +174,9 @@ If you find this repository helpful, please consider giving it a ⭐ on GitHub.
 
 ---
 
-## 📧 Contact
+ ## 👨‍💻 Author
 
-GitHub: https://github.com/your-username
+#Aware Uday Navnath
 
-LinkedIn: https://linkedin.com/in/your-profile
-
-Email: your-email@example.com
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ### Happy Learning! 🚀📊🤖
