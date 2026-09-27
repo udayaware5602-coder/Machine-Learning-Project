@@ -56,7 +56,7 @@ K-Means-Clustering/
 
 ### **Aware Uday Navnath**
 
-🔗 **LinkedIn:** [Uday Aware](https://www.linkedin.com/in/uday-aware-5ba400381)
+🔗 **LinkedIn:** https://www.linkedin.com/in/uday-aware-5ba400381
 
 💻 **Machine Learning | Python | Data Science | AI**
 
