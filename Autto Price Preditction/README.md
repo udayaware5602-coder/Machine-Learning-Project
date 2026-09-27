@@ -222,9 +222,7 @@ Responsibilities:
 * Streamlit application
 * Core machine learning implementation
 
-### 🎨 Aniket
 
-**UI/UX & Frontend Specialist**
 
 Responsibilities:
 
